@@ -1,6 +1,6 @@
 # Project: daily-goals
 
-![img](https://github.com/RB-93/daily-goals/blob/master/images/life-goals.jpg)
+![img](../master/images/life-goals.jpg)
 
 This application is a collaborative project made by the Google Udacity Android Basics Scholars.
 
